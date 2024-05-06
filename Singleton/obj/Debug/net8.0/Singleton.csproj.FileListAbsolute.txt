@@ -1,0 +1,11 @@
+D:\Proyectos_UAB\Patrones\Singleton\Singleton\bin\Debug\net8.0\Singleton.deps.json
+D:\Proyectos_UAB\Patrones\Singleton\Singleton\bin\Debug\net8.0\Singleton.dll
+D:\Proyectos_UAB\Patrones\Singleton\Singleton\bin\Debug\net8.0\Singleton.pdb
+D:\Proyectos_UAB\Patrones\Singleton\Singleton\obj\Debug\net8.0\Singleton.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos_UAB\Patrones\Singleton\Singleton\obj\Debug\net8.0\Singleton.AssemblyInfoInputs.cache
+D:\Proyectos_UAB\Patrones\Singleton\Singleton\obj\Debug\net8.0\Singleton.AssemblyInfo.cs
+D:\Proyectos_UAB\Patrones\Singleton\Singleton\obj\Debug\net8.0\Singleton.csproj.CoreCompileInputs.cache
+D:\Proyectos_UAB\Patrones\Singleton\Singleton\obj\Debug\net8.0\Singleton.dll
+D:\Proyectos_UAB\Patrones\Singleton\Singleton\obj\Debug\net8.0\refint\Singleton.dll
+D:\Proyectos_UAB\Patrones\Singleton\Singleton\obj\Debug\net8.0\Singleton.pdb
+D:\Proyectos_UAB\Patrones\Singleton\Singleton\obj\Debug\net8.0\ref\Singleton.dll
